@@ -50,5 +50,4 @@ categories: study
  
  - 页脚（Footer）
 
-# - 平面设计/图形设计
-<img src="/images/tuxing_sheji.jpg">
+- 平面设计/图形设计
