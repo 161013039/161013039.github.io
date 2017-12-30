@@ -3,6 +3,7 @@ layout: default
 title:  "study"
 categories: study
 ---
+
 <div class="row img-rounded" style="padding:30px; box-shadow: 10px 10px 5px #888888; border: 1px solid #EA1D2D;">
 <div class="col-md-12">
 <div style="background: #EA1D2D; color:white" class="btn" markdown="1">
@@ -10,7 +11,7 @@ categories: study
 </div>
 </div>
 
-#  - 页面结构
+ - 页面结构
  - 结构展示三品质：
  坚固，有用性和美丽
  
@@ -36,18 +37,10 @@ categories: study
  3.媒体查询(media querires)
 
  - 最基本页面布局——页面结构
- 
- 
  - 页眉  （Header)
- 
- 
  - 主要内容栏  (Main)
- 
- 
  - 右侧（浏览）栏 (Right scan column)
  
  - 左侧（浏览）栏 (Left scan column)
  
  - 页脚（Footer）
-
-- 平面设计/图形设计
