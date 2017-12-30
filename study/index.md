@@ -10,7 +10,7 @@ categories: study
 </div>
 </div>
 
- - 页面结构
+#  - 页面结构
  - 结构展示三品质：
  坚固，有用性和美丽
  
@@ -50,5 +50,5 @@ categories: study
  
  - 页脚（Footer）
 
-- 平面设计/图形设计
+# - 平面设计/图形设计
 <img src="/images/tuxing_sheji.jpg">
