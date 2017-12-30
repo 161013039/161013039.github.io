@@ -37,7 +37,7 @@
   z-index: 20;
   box-sizing: border-box;
   &:hover {
-    background: $black;
+    background: $red;
   }
   transition: $sliding-menu-animation;
   &.slide {
@@ -141,7 +141,8 @@
       }
     }
     a:hover .teaser {
-      opacity: 1;
+      opacity: 1; 
+	  border: 3px solid $yellow;
     }
     .title {
       display: block;

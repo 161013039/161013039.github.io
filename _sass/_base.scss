@@ -9,6 +9,9 @@
 body {
 	font-family: $base-font;
 	color: $text-color;
+	 background-image:
+      linear-gradient(rgba(255, 255, 0, 0.6), rgba(255, 255, 0, 0.3)), 
+      url('../images/bei_jingtu.png');
 	@include font-size(16);
 }
 
