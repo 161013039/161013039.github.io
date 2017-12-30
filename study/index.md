@@ -40,4 +40,4 @@ categories: study
 平面设计/图形设计
 <img src="https://unstats.un.org/sdgs/report/2017/svg/goal-01.svg" alt="SDG 2017 Report Goal 1" style="width: 100%" type="image/svg+xml">
 </div>
-
+</div>
