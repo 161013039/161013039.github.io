@@ -4,10 +4,12 @@ title:  "study"
 categories: study
 ---
 
-
+<div class="row img-rounded" style="padding:30px; box-shadow: 10px 10px 5px #888888; border: 1px solid #EA1D2D;">
 <div class="col-md-12">
-
+<div style="background: #EA1D2D; color:white" class="btn" markdown="1">
 ###学习笔记
+</div>
+</div>
 
  - 页面结构
  - 结构展示三品质：
