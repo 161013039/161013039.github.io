@@ -5,8 +5,6 @@ categories: study
 ---
 
 
-<div class="col-md-12">
-
  - 学习笔记
 
 
