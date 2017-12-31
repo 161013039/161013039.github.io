@@ -4,12 +4,11 @@ title:  "study"
 categories: study
 ---
 
-<div class="row img-rounded" style="padding:30px; box-shadow: 10px 10px 5px #888888; border: 1px solid #EA1D2D;">
+
 <div class="col-md-12">
-<div style="background: #EA1D2D; color:white" class="btn" markdown="1">
-###学习笔记
-</div>
-</div>
+
+ - 学习笔记
+
 
  - 页面结构
  - 结构展示三品质：
@@ -29,8 +28,6 @@ categories: study
  </div>
  
  - 弹性布局与响应式图片
- 
- 
  - 响应式web设计运用了三种技术：
  1.弹性网格布局（fluid grid）
  2.弹性图片/媒体（flexible images)
@@ -40,7 +37,5 @@ categories: study
  - 页眉  （Header)
  - 主要内容栏  (Main)
  - 右侧（浏览）栏 (Right scan column)
- 
  - 左侧（浏览）栏 (Left scan column)
- 
  - 页脚（Footer）
