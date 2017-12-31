@@ -4,18 +4,18 @@ title:  "study"
 categories: study
 ---
 
+###  - 学习笔记
 
- - 学习笔记
 
-
- - 页面结构
+####  - 页面结构
  - 结构展示三品质：
  坚固，有用性和美丽
  
  
  - 页面结构的发展：
  - 图书和印刷工艺是古老的、值得尊敬的设计学科…（有）悠久的创造性历史，这个历史与我们对“图书形式、页面布局、字体设计、版面设计，以及…视觉设计和内容的完笑融合。遗憾的是，我们仍处于Web发布、编辑和设计标准的这样一个尴尬不成熟的阶段，让人欣慰的是混乱中还浮现了明确的样式以及用户期望。
-<div class="col-md-3"><!-- left -->
+
+<div class="col-md-3" markdown="1"><!-- left -->
 <img src="/images/yemian_tu.jpg" alt="SDG 2017 Report Goal 1" style="width: 100%" type="image/svg+xml">
 </div>
 <div class="col-md-9" markdown="1" ><!-- right -->
