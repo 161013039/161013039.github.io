@@ -277,7 +277,7 @@
 	// instead,using auto, max-width
 	img {
 		width: auto;
-		max-width: 100%;
+		max-width: 50%;
 		@include media($medium) {
 			max-width: 50%;
 		}
