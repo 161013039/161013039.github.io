@@ -1,13 +1,17 @@
 # Site navigation links
 
-- title: 作品集
+- title: 网页制作作品集
   url: /portfolio/ 
-  excerpt: "个人作品集"
+  excerpt: "小组作品集"
   image: link.gif
+    
+- title: 信息可视化作品集
+  url: /infovis/
+  excerpt: "个人作品集"
+  image: gai_bian.jpg
   
-
 - title: 学习笔记
-  url: /study/ 
+  url: /posts/ 
   excerpt: "个人作品集"
   image: ming_ren.gif
   
