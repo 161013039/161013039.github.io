@@ -11,7 +11,7 @@
   image: gai_bian.jpg
  
 - title: 学习笔记
-  url: /posts/ 
+  url: /_posts/ 
   excerpt: "个人作品集"
   image: ming_ren.gif
   
