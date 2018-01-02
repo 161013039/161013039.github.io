@@ -80,14 +80,14 @@ $form-font-size              	: $doc-font-size;
    Sliding menu navigation variables
    ========================================================================== */
 
-$sliding-menu-border-color	 	 : $black;
-$sliding-menu-background 		   : $black;
-$sliding-menu-color 	 		     : $white;
-$sliding-menu-background-hover : $black;
-$sliding-menu-color-hover	 	   : $white;
+$sliding-menu-border-color	 	 : $red;
+$sliding-menu-background 		   : $yellow;
+$sliding-menu-color 	 		     : $yellow;
+$sliding-menu-background-hover : $blue;
+$sliding-menu-color-hover	 	   : $blue;
 $sliding-menu-border   			   : 1px solid $sliding-menu-border-color;
 $button-size		         	     : 30px;
-$transition						         : 0.3s; // increase this to see the transformations in slow-motion
+$transition						         : 0.4s; // increase this to see the transformations in slow-motion
 $sliding-menu-animation        : all 500ms cubic-bezier(.86,.01,.77,.78);
 
 /*
