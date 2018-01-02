@@ -29,7 +29,7 @@
   display: block;
   width: $button-size * 2;
   height: $button-size * 2;
-  background: $primary-color;
+  background: rgba(119,136,153,0.5);
   outline: 0;
   padding: 0;
   border: 2.5px solid transparent;
@@ -37,18 +37,20 @@
   z-index: 20;
   box-sizing: border-box;
   &:hover {
-    background: $blue;
+    background: $GoldEnrod;
   }
   transition: $sliding-menu-animation;
   &.slide {
     background: $danger-color;
     transform: translateX(0); /* don't slide close button on small screens only */
+    /* disable reset slide position
     @include media($medium) {
-      transform: translateX(em(-600)); /* reset slide position */
+      transform: translateX(em(-600)); 
     }
     @include media($large) {
-      transform: translateX(em(-900)); /* reset slide position */
+      transform: translateX(em(-900)); 
     }
+    */
   }
 }
 
@@ -87,7 +89,7 @@
     @include media($large) {
       margin-right: 20%;
     }
-    color: $white;
+    color: #595959;
     @include font-size(14);
     @include media($small) {
       @include font-size(16);
@@ -125,7 +127,7 @@
   .menu-item {
     a {
       display: block;
-      color: $white;
+      color: #595959;
       text-decoration: none;
     }
     .teaser {
@@ -133,7 +135,7 @@
       left: 0;
       margin-bottom: 0;
       width: 50px;
-      border: 2px solid $white;
+      border: 1px solid $white;
       margin-bottom: ($gutter / 2);
       opacity: 0.6;
       @include media($small) {
@@ -142,7 +144,7 @@
     }
     a:hover .teaser {
       opacity: 1;
-	  border:3px solid $red
+      border: 3px solid $GoldEnrod;
     }
     .title {
       display: block;
@@ -164,9 +166,9 @@
         @include font-size(16,no);
       }
     }
-	.title:hover,.excerpt:hover,.teaser:hover{
-	    color:$lemon;
-		}
+    .title:hover,.excerpt:hover,.teaser:hover{
+        color: $GoldEnrod;
+    }
   }
   .sub-menu-item > li a {
     display: block;
