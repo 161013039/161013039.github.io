@@ -9,7 +9,7 @@
   url: /infovis/
   excerpt: "个人作品集"
   image: gai_bian.jpg
-  
+ 
 - title: 学习笔记
   url: /posts/ 
   excerpt: "个人作品集"
@@ -19,5 +19,4 @@
 - title: Contact 联络我
   url: /contact/
   excerpt: "联络我"
-  image: huo_ying.jpg
-  
+  image: huo_ying.jpg 
