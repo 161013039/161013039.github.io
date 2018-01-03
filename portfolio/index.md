@@ -1,9 +1,9 @@
 ---
 layout: archive
 title: "网页制作作品集"
-date: 2018-1-2
+date: 2018-1-2T11:40:45-04:00
 modified:
-excerpt: "(๑•ᴗ•๑)"
+excerpt: "作品集“"
 tags: []
 image: 
   feature: xi_huang.jpg
