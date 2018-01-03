@@ -3,12 +3,12 @@ layout: archive
 title: "网页制作作品集"
 date: 2018-1-2T11:40:45-04:00
 modified:
-excerpt: "作品集“"
+excerpt: "作品集"
 tags: []
 image: 
   feature: xi_huang.jpg
-  teaser:
 ---
+#### [网页制作小组作品](https://qiuqiuge.github.io/portfolio/web/index/index.html)
 
 
 <div class="tiles">
