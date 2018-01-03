@@ -8,7 +8,7 @@ tags: []
 image: 
   feature: xi_huang.jpg
 ---
-#### [网页制作小组作品](https://qiuqiuge.github.io/portfolio/web/index/index.html)
+#### [网页制作小组作品](https://qiuqiuge.github.io/portfolio/web/index.html)
 
 
 <div class="tiles">
