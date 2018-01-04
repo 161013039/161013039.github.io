@@ -2,19 +2,23 @@
 layout: article
 title:  "网页的logo更改"
 date:   2017-12-07 23:45:15 +0800
-categories:
+categories: posts rwd
 image:
   teaser: nian_qing.jpg
   feature: nian_qing.jpg 
 ---
 
-# 在网页打开时候，浏览器出现你的logo
 
-# 这个模板的logo是我的，你要换掉！！！
+制作logo的方法
 
-# 这个模板的logo是我的，你要换掉！！！
 
-# 这个模板的logo是我的，你要换掉！！！
+### 在网页打开时候，浏览器出现你的logo
+
+### 这个模板的logo是我的，你要换掉！！！
+
+### 这个模板的logo是我的，你要换掉！！！
+
+### 这个模板的logo是我的，你要换掉！！！
 
 ### 老师的网页的中出现的是![Keble College Icon](https://raw.githubusercontent.com/hanteng/hanteng.github.io/cf9691a940e8d9527d64553501a90991e9c5f1ab/apple-touch-icon.png)
 
