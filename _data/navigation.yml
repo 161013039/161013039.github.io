@@ -1,22 +1,21 @@
 # Site navigation links
 
-- title: 网页制作作品集
-  url: /portfolio/ 
-  excerpt: "小组作品集"
+- title: 网页设计作品集
+  url: /portfolio/
+  excerpt: 网页作品
   image: link.gif
-    
+  
 - title: 信息可视化作品集
   url: /infovis/
-  excerpt: "tableau个人作品集"
+  excerpt: tableau个人作品
   image: gai_bian.jpg
- 
- 
-- title: 网页制作学习笔记
-  url: /posts/ 
-  excerpt: "笔记"
+  
+- title: 网页制作笔记
+  url: /posts/rwd/
+  excerpt: 记录知识点
   image: ming_ren.gif
   
-- title: 信息化学习笔记
-  url：/posts/
+- title: 信息可视化笔记
+  url: /posts/infovis/
   excerpt: "知识点"
   image: bu_cuo.jpg 
