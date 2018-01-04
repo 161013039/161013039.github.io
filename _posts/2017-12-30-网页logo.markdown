@@ -4,8 +4,8 @@ title:  "网页的logo更改"
 date:   2017-12-07 23:45:15 +0800
 categories: posts rwd
 image:
-  teaser: nian_qing.jpg
-  feature: nian_qing.jpg 
+  teaser: posts_tu5.jpg
+  feature: posts_tu5.jpg 
 ---
 
 
