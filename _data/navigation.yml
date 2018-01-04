@@ -11,10 +11,16 @@
   image: gai_bian.jpg
  
  
-- title: 学习笔记
-  url: /study/ 
-  excerpt: "个人作品集"
+- title: 网页制作学习笔记
+  url: /posts/rwd/ 
+  excerpt: "笔记"
   image: ming_ren.gif
+  
+- title: 信息化学习笔记
+  url：/posts/infovis/
+  excerpt: "笔记"
+  image: ming_ren.gif
+  
 
 - title: Contact 联络我
   url: /contact/
