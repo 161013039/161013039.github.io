@@ -3,12 +3,12 @@
 - title: 网页设计作品集
   url: /portfolio/
   excerpt: 网页作品
-  image: link.gif
+  image: images_tu1.jpg
   
 - title: 信息可视化作品集
   url: /infovis/
   excerpt: tableau个人作品
-  image: gai_bian.jpg
+  image: images_tu2.jpg
   
 - title: 网页制作笔记
   url: /posts/rwd/
