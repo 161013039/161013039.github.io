@@ -9,8 +9,8 @@ image:
   feature: 
 ---
 
-- <a href="https://public.tableau.com/profile/.71971766#!/vizhome/1_5267/2_1" target="_blank">![数据分析.png](https://i.loli.net/2018/01/07/5a521dc6d1af7.png)</a>
-- <a href="https://public.tableau.com/profile/.71971766#!/vizhome/1_5267/2_1" target="_blank">![数据分析.png](https://i.loli.net/2018/01/07/5a521dc6d1af7.png)</a>
+- <a href="https://public.tableau.com/profile/.71971766#!/vizhome/1_5267/2_1" target="_blank">![数据分析.png](https://i.loli.net/2018/01/07/5a522587c73c5.png)</a>
+
 
 其他作品
 <div class="tiles">
