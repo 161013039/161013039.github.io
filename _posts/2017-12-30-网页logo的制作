@@ -1,0 +1,27 @@
+---
+layout: article
+title:  "网页的logo更改"
+date:   2017-12-07 23:45:15 +0800
+categories: posts rwd
+image:
+  teaser: posts_tu5.jpg
+  feature: posts_tu5.jpg 
+---
+
+
+制作logo的方法
+
+
+### 给自己的网页定制一个logo 
+ 
+ 首先打开一个网站("https://realfavicongenerator.net/")
+ 
+ 按照里面的教程一个一个完成，最后下载一个名为Favicon package的压缩文件
+把刚刚压缩包的文件打开，把以下文件放入你的制作网页制作的原文件里。
+ - apple-touch-icon
+ - favicon-16x16
+ - favicon-32x32
+ - favicon
+ - manifest.json
+
+logo就制作完成啦
